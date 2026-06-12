@@ -1,0 +1,9 @@
+{
+   "redirects":[
+      {
+         "source":"/vip",
+         "destination":"https://t.me/MonaPeche",
+         "permanent":false
+      }
+   ]
+}
